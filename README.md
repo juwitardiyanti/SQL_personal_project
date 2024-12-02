@@ -1,4 +1,4 @@
-# SQL Personal Project Repository  
+# SQL Personal Project  
 
 Welcome to the **`sql_personal_project`** repository! This repository is a showcase of my SQL journey, where I apply and refine my skills through practical projects.  
 
