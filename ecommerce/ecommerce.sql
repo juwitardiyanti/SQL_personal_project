@@ -257,5 +257,3 @@ GROUP BY
 HAVING
 	count(1) >= 10 AND count(1) = count(DISTINCT orders.kodepos)
 ORDER BY 2 DESC;
-
-SELECT COUNT(*) FROM ecommerce.users;
